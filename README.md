@@ -13,9 +13,8 @@ cd T-Header
 
 ls
 
-bash t-headr.sh
-
-<!---
-MoahmmadAilBelwasi/MoahmmadAilBelwasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+bash t-header.sh
+خب‌دوستان‌توجه‌کنید‌بعد‌زدن‌آخرین‌کد‌صبر‌کنید‌تا‌پکیج‌کامل‌براتون‌دانلود‌‌
+وبعد‌وارد‌یک‌صفحه‌جدید‌می‌شوید‌و‌از‌شما‌سوأل‌می‌پرسه‌و‌شما‌باید‌yتایپ‌کنید‌
+و‌بعد‌‌در‌حد‌1الی‌دو‌دقیقه‌صبر‌می‌کنید‌و‌از‌شما‌می‌پرسه‌چه‌اسمی‌می‌خواهید‌
+وشما‌اسم‌دلخواه‌خودتون‌رو‌می‌زنید‌و‌‌تمام‌صفحه‌شما‌ساخته‌می‌شه
